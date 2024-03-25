@@ -1,0 +1,4 @@
+﻿  donate.cpp
+C:\Users\Robert\Desktop\VSCODE\donate\donate\donate.cpp(132,49): warning C4477: 'sprintf_s' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\Robert\Desktop\VSCODE\donate\donate\donate.cpp(132,49): message : consider using '%zu' in the format string
+  donate.vcxproj -> C:\Users\Robert\Desktop\VSCODE\donate\x64\Debug\donate.exe

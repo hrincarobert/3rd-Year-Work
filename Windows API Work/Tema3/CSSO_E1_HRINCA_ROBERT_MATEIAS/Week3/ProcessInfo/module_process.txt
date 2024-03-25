@@ -1,0 +1,14 @@
+ModuleId: 00007FF602DF0000, ProcessId: FFFFFFFFFFFFFFFF, szModule: C:\Users\Robert\source\repos\hrincarobert\POO-2022-E1_Hrinc-_Robert_Mateia-\Tema3_CSSO_Collect\x64\Debug\Tema3_CSSO_Collect.exe, szExePath: C:\Users\Robert\source\repos\hrincarobert\POO-2022-E1_Hrinc-_Robert_Mateia-\Tema3_CSSO_Collect\x64\Debug\Tema3_CSSO_Collect.exe
+
+ModuleId: 00007FFB8F4F0000, ProcessId: FFFFFFFFFFFFFFFF, szModule: C:\WINDOWS\SYSTEM32\ntdll.dll, szExePath: C:\Users\Robert\source\repos\hrincarobert\POO-2022-E1_Hrinc-_Robert_Mateia-\Tema3_CSSO_Collect\x64\Debug\Tema3_CSSO_Collect.exe
+
+ModuleId: 00007FFB8E670000, ProcessId: FFFFFFFFFFFFFFFF, szModule: C:\WINDOWS\System32\KERNEL32.DLL, szExePath: C:\Users\Robert\source\repos\hrincarobert\POO-2022-E1_Hrinc-_Robert_Mateia-\Tema3_CSSO_Collect\x64\Debug\Tema3_CSSO_Collect.exe
+
+ModuleId: 00007FFB8CE70000, ProcessId: FFFFFFFFFFFFFFFF, szModule: C:\WINDOWS\System32\KERNELBASE.dll, szExePath: C:\Users\Robert\source\repos\hrincarobert\POO-2022-E1_Hrinc-_Robert_Mateia-\Tema3_CSSO_Collect\x64\Debug\Tema3_CSSO_Collect.exe
+
+ModuleId: 00007FFB89C20000, ProcessId: FFFFFFFFFFFFFFFF, szModule: C:\WINDOWS\SYSTEM32\apphelp.dll, szExePath: C:\Users\Robert\source\repos\hrincarobert\POO-2022-E1_Hrinc-_Robert_Mateia-\Tema3_CSSO_Collect\x64\Debug\Tema3_CSSO_Collect.exe
+
+ModuleId: 00007FFB79E30000, ProcessId: FFFFFFFFFFFFFFFF, szModule: C:\WINDOWS\SYSTEM32\VCRUNTIME140D.dll, szExePath: C:\Users\Robert\source\repos\hrincarobert\POO-2022-E1_Hrinc-_Robert_Mateia-\Tema3_CSSO_Collect\x64\Debug\Tema3_CSSO_Collect.exe
+
+ModuleId: 00007FFB56520000, ProcessId: FFFFFFFFFFFFFFFF, szModule: C:\WINDOWS\SYSTEM32\ucrtbased.dll, szExePath: C:\Users\Robert\source\repos\hrincarobert\POO-2022-E1_Hrinc-_Robert_Mateia-\Tema3_CSSO_Collect\x64\Debug\Tema3_CSSO_Collect.exe
+

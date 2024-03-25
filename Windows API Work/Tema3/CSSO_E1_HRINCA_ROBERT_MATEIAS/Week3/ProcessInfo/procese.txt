@@ -1,0 +1,506 @@
+Process [0]: ParentProcess [0], Name: [System Process]
+
+Process [4]: ParentProcess [0], Name: System
+
+Process [176]: ParentProcess [4], Name: Registry
+
+Process [644]: ParentProcess [4], Name: smss.exe
+
+Process [1020]: ParentProcess [788], Name: csrss.exe
+
+Process [1100]: ParentProcess [788], Name: wininit.exe
+
+Process [1108]: ParentProcess [1092], Name: csrss.exe
+
+Process [1168]: ParentProcess [1092], Name: winlogon.exe
+
+Process [1240]: ParentProcess [1100], Name: services.exe
+
+Process [1264]: ParentProcess [1100], Name: lsass.exe
+
+Process [1392]: ParentProcess [1240], Name: svchost.exe
+
+Process [1420]: ParentProcess [1100], Name: fontdrvhost.exe
+
+Process [1428]: ParentProcess [1168], Name: fontdrvhost.exe
+
+Process [1524]: ParentProcess [1240], Name: svchost.exe
+
+Process [1576]: ParentProcess [1240], Name: svchost.exe
+
+Process [1652]: ParentProcess [1168], Name: dwm.exe
+
+Process [1772]: ParentProcess [1240], Name: svchost.exe
+
+Process [1816]: ParentProcess [1240], Name: svchost.exe
+
+Process [1824]: ParentProcess [1240], Name: svchost.exe
+
+Process [1912]: ParentProcess [1240], Name: svchost.exe
+
+Process [1920]: ParentProcess [1240], Name: svchost.exe
+
+Process [1932]: ParentProcess [1240], Name: svchost.exe
+
+Process [1972]: ParentProcess [1240], Name: svchost.exe
+
+Process [1112]: ParentProcess [1240], Name: svchost.exe
+
+Process [1288]: ParentProcess [1240], Name: svchost.exe
+
+Process [2108]: ParentProcess [1240], Name: svchost.exe
+
+Process [2332]: ParentProcess [1240], Name: svchost.exe
+
+Process [2408]: ParentProcess [1240], Name: NVDisplay.Container.exe
+
+Process [2480]: ParentProcess [1240], Name: svchost.exe
+
+Process [2520]: ParentProcess [1240], Name: svchost.exe
+
+Process [2528]: ParentProcess [1240], Name: amdfendrsr.exe
+
+Process [2536]: ParentProcess [1240], Name: atiesrxx.exe
+
+Process [2624]: ParentProcess [1240], Name: svchost.exe
+
+Process [2704]: ParentProcess [1240], Name: svchost.exe
+
+Process [2932]: ParentProcess [2408], Name: NVDisplay.Container.exe
+
+Process [2980]: ParentProcess [1240], Name: svchost.exe
+
+Process [2992]: ParentProcess [1240], Name: svchost.exe
+
+Process [3000]: ParentProcess [1240], Name: svchost.exe
+
+Process [3008]: ParentProcess [2536], Name: atieclxx.exe
+
+Process [3024]: ParentProcess [1240], Name: svchost.exe
+
+Process [2768]: ParentProcess [4], Name: Memory Compression
+
+Process [3100]: ParentProcess [1240], Name: svchost.exe
+
+Process [3124]: ParentProcess [1240], Name: svchost.exe
+
+Process [3132]: ParentProcess [1240], Name: svchost.exe
+
+Process [3324]: ParentProcess [1240], Name: svchost.exe
+
+Process [3352]: ParentProcess [1240], Name: svchost.exe
+
+Process [3424]: ParentProcess [1240], Name: svchost.exe
+
+Process [3432]: ParentProcess [1240], Name: svchost.exe
+
+Process [3440]: ParentProcess [1240], Name: svchost.exe
+
+Process [3692]: ParentProcess [1240], Name: svchost.exe
+
+Process [3900]: ParentProcess [1240], Name: svchost.exe
+
+Process [3940]: ParentProcess [1240], Name: svchost.exe
+
+Process [4008]: ParentProcess [1240], Name: spoolsv.exe
+
+Process [4084]: ParentProcess [1240], Name: svchost.exe
+
+Process [3788]: ParentProcess [1240], Name: svchost.exe
+
+Process [4292]: ParentProcess [3900], Name: wlanext.exe
+
+Process [4372]: ParentProcess [1240], Name: svchost.exe
+
+Process [4380]: ParentProcess [1240], Name: svchost.exe
+
+Process [4396]: ParentProcess [1240], Name: svchost.exe
+
+Process [4404]: ParentProcess [1240], Name: gameinputsvc.exe
+
+Process [4412]: ParentProcess [1240], Name: svchost.exe
+
+Process [4420]: ParentProcess [1240], Name: NahimicService.exe
+
+Process [4428]: ParentProcess [1240], Name: svchost.exe
+
+Process [4444]: ParentProcess [1240], Name: LenovoUtilityService.exe
+
+Process [4452]: ParentProcess [1240], Name: TNSLSNR.EXE
+
+Process [4472]: ParentProcess [1240], Name: oracle.exe
+
+Process [4492]: ParentProcess [1240], Name: httpd.exe
+
+Process [4508]: ParentProcess [1240], Name: RtkAudUService64.exe
+
+Process [4520]: ParentProcess [1240], Name: pg_ctl.exe
+
+Process [4560]: ParentProcess [4292], Name: conhost.exe
+
+Process [4568]: ParentProcess [1240], Name: svchost.exe
+
+Process [4588]: ParentProcess [1240], Name: svchost.exe
+
+Process [4620]: ParentProcess [1240], Name: mysqld.exe
+
+Process [4660]: ParentProcess [1240], Name: MsMpEng.exe
+
+Process [4796]: ParentProcess [1240], Name: svchost.exe
+
+Process [5036]: ParentProcess [4404], Name: gameinputsvc.exe
+
+Process [3172]: ParentProcess [1240], Name: svchost.exe
+
+Process [4864]: ParentProcess [1240], Name: gamingservicesnet.exe
+
+Process [5128]: ParentProcess [1240], Name: gamingservices.exe
+
+Process [5172]: ParentProcess [1240], Name: pgagent.exe
+
+Process [5692]: ParentProcess [1920], Name: sihost.exe
+
+Process [5760]: ParentProcess [1240], Name: svchost.exe
+
+Process [5772]: ParentProcess [1240], Name: svchost.exe
+
+Process [5792]: ParentProcess [4620], Name: mysqld.exe
+
+Process [5848]: ParentProcess [5792], Name: conhost.exe
+
+Process [5964]: ParentProcess [4520], Name: postgres.exe
+
+Process [5980]: ParentProcess [5964], Name: conhost.exe
+
+Process [6060]: ParentProcess [1240], Name: svchost.exe
+
+Process [6140]: ParentProcess [1240], Name: svchost.exe
+
+Process [6204]: ParentProcess [1772], Name: taskhostw.exe
+
+Process [6344]: ParentProcess [1240], Name: svchost.exe
+
+Process [6392]: ParentProcess [4372], Name: AggregatorHost.exe
+
+Process [6844]: ParentProcess [1392], Name: WmiPrvSE.exe
+
+Process [7028]: ParentProcess [5964], Name: postgres.exe
+
+Process [7108]: ParentProcess [5964], Name: postgres.exe
+
+Process [7116]: ParentProcess [5964], Name: postgres.exe
+
+Process [7188]: ParentProcess [7100], Name: explorer.exe
+
+Process [7276]: ParentProcess [1240], Name: svchost.exe
+
+Process [7424]: ParentProcess [1392], Name: unsecapp.exe
+
+Process [7816]: ParentProcess [1240], Name: svchost.exe
+
+Process [7624]: ParentProcess [1240], Name: svchost.exe
+
+Process [7644]: ParentProcess [4492], Name: httpd.exe
+
+Process [4320]: ParentProcess [5964], Name: postgres.exe
+
+Process [4388]: ParentProcess [5964], Name: postgres.exe
+
+Process [4308]: ParentProcess [5964], Name: postgres.exe
+
+Process [7744]: ParentProcess [1240], Name: svchost.exe
+
+Process [8208]: ParentProcess [1240], Name: svchost.exe
+
+Process [9172]: ParentProcess [1240], Name: svchost.exe
+
+Process [8256]: ParentProcess [1392], Name: StartMenuExperienceHost.exe
+
+Process [8416]: ParentProcess [1392], Name: Widgets.exe
+
+Process [8348]: ParentProcess [1392], Name: RuntimeBroker.exe
+
+Process [9252]: ParentProcess [1392], Name: RuntimeBroker.exe
+
+Process [9536]: ParentProcess [1240], Name: svchost.exe
+
+Process [9544]: ParentProcess [1240], Name: svchost.exe
+
+Process [9744]: ParentProcess [1240], Name: svchost.exe
+
+Process [8772]: ParentProcess [1392], Name: dllhost.exe
+
+Process [10548]: ParentProcess [3352], Name: ctfmon.exe
+
+Process [10336]: ParentProcess [1240], Name: svchost.exe
+
+Process [11024]: ParentProcess [6188], Name: GoogleCrashHandler.exe
+
+Process [11068]: ParentProcess [6188], Name: GoogleCrashHandler64.exe
+
+Process [8132]: ParentProcess [1240], Name: svchost.exe
+
+Process [10916]: ParentProcess [1240], Name: NisSrv.exe
+
+Process [7736]: ParentProcess [5964], Name: postgres.exe
+
+Process [11644]: ParentProcess [7188], Name: SecurityHealthSystray.exe
+
+Process [11676]: ParentProcess [1240], Name: SecurityHealthService.exe
+
+Process [11824]: ParentProcess [1392], Name: WidgetService.exe
+
+Process [11980]: ParentProcess [7188], Name: RtkAudUService64.exe
+
+Process [12124]: ParentProcess [4444], Name: FnHotkeyCapsLKNumLK.exe
+
+Process [12144]: ParentProcess [4444], Name: FnHotkeyUtility.exe
+
+Process [12656]: ParentProcess [1392], Name: TextInputHost.exe
+
+Process [12888]: ParentProcess [7188], Name: CCXProcess.exe
+
+Process [12900]: ParentProcess [12888], Name: node.exe
+
+Process [12912]: ParentProcess [12900], Name: conhost.exe
+
+Process [13036]: ParentProcess [12900], Name: AdobeIPCBroker.exe
+
+Process [13100]: ParentProcess [7188], Name: RiotClientServices.exe
+
+Process [12424]: ParentProcess [13100], Name: RiotClientCrashHandler.exe
+
+Process [13636]: ParentProcess [13592], Name: RzSynapse.exe
+
+Process [14008]: ParentProcess [1240], Name: svchost.exe
+
+Process [14180]: ParentProcess [13592], Name: jusched.exe
+
+Process [7336]: ParentProcess [8644], Name: NhNotifSys.exe
+
+Process [15928]: ParentProcess [1240], Name: svchost.exe
+
+Process [16212]: ParentProcess [1240], Name: svchost.exe
+
+Process [17044]: ParentProcess [1240], Name: svchost.exe
+
+Process [16524]: ParentProcess [1240], Name: svchost.exe
+
+Process [17188]: ParentProcess [1392], Name: XboxGameBarSpotify.exe
+
+Process [17244]: ParentProcess [1392], Name: RuntimeBroker.exe
+
+Process [3796]: ParentProcess [1240], Name: svchost.exe
+
+Process [17668]: ParentProcess [1240], Name: svchost.exe
+
+Process [17736]: ParentProcess [1240], Name: svchost.exe
+
+Process [16000]: ParentProcess [1392], Name: ShellExperienceHost.exe
+
+Process [6324]: ParentProcess [1392], Name: RuntimeBroker.exe
+
+Process [2968]: ParentProcess [1392], Name: SystemSettingsBroker.exe
+
+Process [11556]: ParentProcess [1240], Name: svchost.exe
+
+Process [16380]: ParentProcess [1392], Name: ApplicationFrameHost.exe
+
+Process [7128]: ParentProcess [14180], Name: jucheck.exe
+
+Process [15572]: ParentProcess [1240], Name: OfficeClickToRun.exe
+
+Process [3392]: ParentProcess [15572], Name: AppVShNotify.exe
+
+Process [5596]: ParentProcess [1240], Name: SearchIndexer.exe
+
+Process [2648]: ParentProcess [1392], Name: Video.UI.exe
+
+Process [13988]: ParentProcess [1392], Name: RuntimeBroker.exe
+
+Process [4856]: ParentProcess [1392], Name: LockApp.exe
+
+Process [16400]: ParentProcess [1392], Name: RuntimeBroker.exe
+
+Process [14412]: ParentProcess [7188], Name: chrome.exe
+
+Process [10740]: ParentProcess [14412], Name: chrome.exe
+
+Process [14144]: ParentProcess [14412], Name: chrome.exe
+
+Process [5156]: ParentProcess [14412], Name: chrome.exe
+
+Process [12392]: ParentProcess [14412], Name: chrome.exe
+
+Process [2956]: ParentProcess [14412], Name: chrome.exe
+
+Process [10588]: ParentProcess [14412], Name: chrome.exe
+
+Process [9360]: ParentProcess [14412], Name: chrome.exe
+
+Process [14756]: ParentProcess [14412], Name: chrome.exe
+
+Process [8296]: ParentProcess [1392], Name: SystemSettings.exe
+
+Process [17772]: ParentProcess [1240], Name: svchost.exe
+
+Process [18084]: ParentProcess [1392], Name: UserOOBEBroker.exe
+
+Process [9484]: ParentProcess [1392], Name: dllhost.exe
+
+Process [8360]: ParentProcess [1392], Name: SDXHelper.exe
+
+Process [13672]: ParentProcess [1392], Name: dllhost.exe
+
+Process [13264]: ParentProcess [14412], Name: chrome.exe
+
+Process [16880]: ParentProcess [14412], Name: chrome.exe
+
+Process [15924]: ParentProcess [14412], Name: chrome.exe
+
+Process [1796]: ParentProcess [14412], Name: chrome.exe
+
+Process [12412]: ParentProcess [1772], Name: taskhostw.exe
+
+Process [19448]: ParentProcess [1240], Name: svchost.exe
+
+Process [2692]: ParentProcess [1392], Name: SearchHost.exe
+
+Process [7688]: ParentProcess [1392], Name: RuntimeBroker.exe
+
+Process [6232]: ParentProcess [14412], Name: chrome.exe
+
+Process [9416]: ParentProcess [14412], Name: chrome.exe
+
+Process [9504]: ParentProcess [7188], Name: devenv.exe
+
+Process [11004]: ParentProcess [9504], Name: PerfWatson2.exe
+
+Process [21980]: ParentProcess [9504], Name: Microsoft.ServiceHub.Controller.exe
+
+Process [22160]: ParentProcess [21980], Name: ServiceHub.VSDetouredHost.exe
+
+Process [21520]: ParentProcess [21980], Name: ServiceHub.IdentityHost.exe
+
+Process [19652]: ParentProcess [21980], Name: ServiceHub.SettingsHost.exe
+
+Process [6648]: ParentProcess [21980], Name: ServiceHub.Host.netfx.x86.exe
+
+Process [12376]: ParentProcess [9504], Name: vshost.exe
+
+Process [18924]: ParentProcess [21980], Name: ServiceHub.IntellicodeModelService.exe
+
+Process [10576]: ParentProcess [21980], Name: ServiceHub.Host.AnyCPU.exe
+
+Process [21896]: ParentProcess [21980], Name: ServiceHub.ThreadedWaitDialog.exe
+
+Process [12604]: ParentProcess [21980], Name: ServiceHub.IndexingService.exe
+
+Process [19112]: ParentProcess [21980], Name: ServiceHub.RoslynCodeAnalysisService.exe
+
+Process [8644]: ParentProcess [21980], Name: ServiceHub.Host.dotnet.x64.exe
+
+Process [12140]: ParentProcess [21980], Name: ServiceHub.TestWindowStoreHost.exe
+
+Process [2356]: ParentProcess [21980], Name: ServiceHub.DataWarehouseHost.exe
+
+Process [1852]: ParentProcess [9504], Name: WebViewHost.exe
+
+Process [19272]: ParentProcess [7188], Name: Code.exe
+
+Process [10748]: ParentProcess [19272], Name: Code.exe
+
+Process [9444]: ParentProcess [19272], Name: Code.exe
+
+Process [19516]: ParentProcess [19272], Name: Code.exe
+
+Process [20816]: ParentProcess [19272], Name: Code.exe
+
+Process [6288]: ParentProcess [19272], Name: Code.exe
+
+Process [16896]: ParentProcess [19272], Name: Code.exe
+
+Process [14840]: ParentProcess [19272], Name: Code.exe
+
+Process [21364]: ParentProcess [6288], Name: cpptools.exe
+
+Process [4720]: ParentProcess [21364], Name: conhost.exe
+
+Process [11400]: ParentProcess [21364], Name: cpptools.exe
+
+Process [20436]: ParentProcess [11400], Name: cpptools-srv.exe
+
+Process [10200]: ParentProcess [20436], Name: conhost.exe
+
+Process [16612]: ParentProcess [19272], Name: CodeSetup-stable-d037ac076cee195194f93ce6fe2bdfe2969cc82d.exe
+
+Process [22152]: ParentProcess [16612], Name: CodeSetup-stable-d037ac076cee195194f93ce6fe2bdfe2969cc82d.tmp
+
+Process [10448]: ParentProcess [1012], Name: Discord.exe
+
+Process [2256]: ParentProcess [10448], Name: Discord.exe
+
+Process [23424]: ParentProcess [10448], Name: Discord.exe
+
+Process [14096]: ParentProcess [10448], Name: Discord.exe
+
+Process [18472]: ParentProcess [10448], Name: Discord.exe
+
+Process [17068]: ParentProcess [10448], Name: Discord.exe
+
+Process [18064]: ParentProcess [1240], Name: svchost.exe
+
+Process [8440]: ParentProcess [1240], Name: svchost.exe
+
+Process [4488]: ParentProcess [12376], Name: vcpkgsrv.exe
+
+Process [8720]: ParentProcess [12376], Name: vcpkgsrv.exe
+
+Process [20624]: ParentProcess [12376], Name: vcpkgsrv.exe
+
+Process [19596]: ParentProcess [1852], Name: msedgewebview2.exe
+
+Process [6272]: ParentProcess [19596], Name: msedgewebview2.exe
+
+Process [11316]: ParentProcess [19596], Name: msedgewebview2.exe
+
+Process [22828]: ParentProcess [19596], Name: msedgewebview2.exe
+
+Process [19888]: ParentProcess [19596], Name: msedgewebview2.exe
+
+Process [9984]: ParentProcess [19596], Name: msedgewebview2.exe
+
+Process [22512]: ParentProcess [19596], Name: msedgewebview2.exe
+
+Process [18048]: ParentProcess [19596], Name: msedgewebview2.exe
+
+Process [20308]: ParentProcess [19596], Name: msedgewebview2.exe
+
+Process [17508]: ParentProcess [12376], Name: vcpkgsrv.exe
+
+Process [9524]: ParentProcess [1240], Name: svchost.exe
+
+Process [15968]: ParentProcess [1240], Name: svchost.exe
+
+Process [21776]: ParentProcess [14412], Name: chrome.exe
+
+Process [17264]: ParentProcess [14412], Name: chrome.exe
+
+Process [23236]: ParentProcess [14412], Name: chrome.exe
+
+Process [20924]: ParentProcess [3324], Name: audiodg.exe
+
+Process [4996]: ParentProcess [1240], Name: svchost.exe
+
+Process [21700]: ParentProcess [1392], Name: WmiPrvSE.exe
+
+Process [3792]: ParentProcess [1392], Name: smartscreen.exe
+
+Process [18456]: ParentProcess [7188], Name: Tema3_CSSO_Collect.exe
+
+Process [21440]: ParentProcess [18456], Name: conhost.exe
+
+Process [7152]: ParentProcess [1392], Name: OpenConsole.exe
+
+Process [23248]: ParentProcess [1392], Name: WindowsTerminal.exe
+

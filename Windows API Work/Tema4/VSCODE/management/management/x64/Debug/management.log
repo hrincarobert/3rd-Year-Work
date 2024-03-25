@@ -1,0 +1,12 @@
+﻿  management.cpp
+C:\Users\Robert\Desktop\VSCODE\management\management\management.cpp(23,16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const wchar_t *'
+C:\Users\Robert\Desktop\VSCODE\management\management\management.cpp(23,16): message : consider using '%ls' in the format string
+C:\Users\Robert\Desktop\VSCODE\management\management\management.cpp(23,16): message : consider using '%lls' in the format string
+C:\Users\Robert\Desktop\VSCODE\management\management\management.cpp(23,16): message : consider using '%Ls' in the format string
+C:\Users\Robert\Desktop\VSCODE\management\management\management.cpp(23,16): message : consider using '%ws' in the format string
+C:\Users\Robert\Desktop\VSCODE\management\management\management.cpp(31,101): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Robert\Desktop\VSCODE\management\management\management.cpp(151,20): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::wstring'
+C:\Users\Robert\Desktop\VSCODE\management\management\management.cpp(169,16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::wstring'
+C:\Users\Robert\Desktop\VSCODE\management\management\management.cpp(284,24): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+C:\Users\Robert\Desktop\VSCODE\management\management\management.cpp(288,24): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
+  management.vcxproj -> C:\Users\Robert\Desktop\VSCODE\management\x64\Debug\management.exe
