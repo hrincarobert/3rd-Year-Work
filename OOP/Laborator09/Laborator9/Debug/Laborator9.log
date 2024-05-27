@@ -1,0 +1,23 @@
+﻿  Laborator9.cpp
+C:\Users\Valentin\source\repos\Laborator9\Laborator9\MyIterator.h(30,24): warning C4838: conversion from 'unsigned long' to 'int' requires a narrowing conversion
+C:\Users\Valentin\source\repos\Laborator9\Laborator9\MyIterator.h(26): message : while compiling class template member function 'RetData<K,V> MyIterator<K,V>::operator *(void)'
+          with
+          [
+              K=int,
+              V=const char *
+          ]
+C:\Users\Valentin\source\repos\Laborator9\Laborator9\Laborator9.cpp(23): message : see reference to function template instantiation 'RetData<K,V> MyIterator<K,V>::operator *(void)' being compiled
+          with
+          [
+              K=int,
+              V=const char *
+          ]
+C:\Users\Valentin\source\repos\Laborator9\Laborator9\Laborator9.cpp(23): message : see reference to class template instantiation 'MyIterator<K,V>' being compiled
+          with
+          [
+              K=int,
+              V=const char *
+          ]
+  Map.cpp
+  Generating Code...
+  Laborator9.vcxproj -> C:\Users\Valentin\source\repos\Laborator9\Debug\Laborator9.exe

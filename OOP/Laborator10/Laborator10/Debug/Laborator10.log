@@ -1,0 +1,7 @@
+﻿  Laborator10.cpp
+C:\Users\Valentin\source\repos\Laborator10\Laborator10\Laborator10.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Valentin\source\repos\Laborator10\Laborator10\Laborator10.cpp(64,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Valentin\source\repos\Laborator10\Laborator10\Laborator10.cpp(65,27): warning C4018: '<': signed/unsigned mismatch
+  RawVector.cpp
+  Generating Code...
+  Laborator10.vcxproj -> C:\Users\Valentin\source\repos\Laborator10\Debug\Laborator10.exe

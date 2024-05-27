@@ -1,0 +1,14 @@
+﻿  Circuit.cpp
+  Dacia.cpp
+C:\Users\Valentin\source\repos\Laborator6\Laborator6\Dacia.cpp(19,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Ford.cpp
+C:\Users\Valentin\source\repos\Laborator6\Laborator6\Ford.cpp(19,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Laborator6.cpp
+  Mazda.cpp
+C:\Users\Valentin\source\repos\Laborator6\Laborator6\Mazda.cpp(19,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Mercedes.cpp
+C:\Users\Valentin\source\repos\Laborator6\Laborator6\Mercedes.cpp(19,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Toyota.cpp
+C:\Users\Valentin\source\repos\Laborator6\Laborator6\Toyota.cpp(19,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Laborator6.vcxproj -> C:\Users\Valentin\source\repos\Laborator6\Debug\Laborator6.exe
